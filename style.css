@@ -1,0 +1,11 @@
+header{
+    position: relative;
+    overflow: hidden;
+    padding-top: calc(7rem + 72px);
+padding-bottom: 7rem;
+background: linear-gradient(0deg, #000000 0%, #b9b91d 100%);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: scroll;
+background-size: cover;
+}
